@@ -10,6 +10,12 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LucidDreamer-colab/blob/main/LucidDreamer_colab.ipynb) | LucidDreamer_colab
 
+## 🦆 Kaggle
+
+| Kaggle | Info
+| --- | --- |
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/luciddreamer) | luciddreamer_kaggle (Free T4)
+
 ## Tutorial
 The running time might be longer than the reported 35 minutes (5000 iterations) on A100, `60 minutes` (3000 iterations) on `T4`
 
