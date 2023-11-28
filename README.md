@@ -21,6 +21,7 @@ https://arxiv.org/abs/2311.11284
 
 ## Output
 
-https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-1.gif
+<div align=center>
+<img src="https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-1.gif" width="47.5%"/><img src="https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-2.gif" width="47.5%"/>  
 
-https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-2.gif
+https://raw.githubusercontent.com/EnVision-Research/LucidDreamer/main/resources/teaser.jpg
