@@ -25,3 +25,7 @@ https://arxiv.org/abs/2311.11284
 <img src="https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-1.gif" width="50%"/><img src="https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-2.gif" width="50%"/> 
 
 ![teaser](https://github.com/camenduru/LucidDreamer-colab/assets/54370274/4832cef3-c8d7-46b6-a88e-7d406e68da57)
+
+20 minutes (600 iterations) on T4 
+
+https://github.com/camenduru/LucidDreamer-colab/assets/54370274/6b1ae8f6-ddf4-46c0-bff1-93173397f8b8
