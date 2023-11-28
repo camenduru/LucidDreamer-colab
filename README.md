@@ -19,8 +19,8 @@ https://github.com/EnVision-Research/LucidDreamer
 ## Paper
 https://arxiv.org/abs/2311.11284
 
-## Page
-
-
 ## Output
 
+https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-1.gif
+
+https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-2.gif
