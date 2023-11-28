@@ -22,6 +22,6 @@ https://arxiv.org/abs/2311.11284
 ## Output
 
 <div align=center>
-<img src="https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-1.gif" width="47.5%"/><img src="https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-2.gif" width="47.5%"/>  
+<img src="https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-1.gif" width="47.5%"/><img src="https://github.com/EnVision-Research/LucidDreamer/blob/main/resources/gif/demo-2.gif" width="47.5%"/> 
 
-https://raw.githubusercontent.com/EnVision-Research/LucidDreamer/main/resources/teaser.jpg
+![teaser](https://github.com/camenduru/LucidDreamer-colab/assets/54370274/4832cef3-c8d7-46b6-a88e-7d406e68da57)
