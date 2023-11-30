@@ -29,3 +29,6 @@ https://arxiv.org/abs/2311.11284
 20 minutes (Max 600 iterations) on T4
 
 https://github.com/camenduru/LucidDreamer-colab/assets/54370274/6b1ae8f6-ddf4-46c0-bff1-93173397f8b8
+
+## Sponsor
+https://modelslab.com
