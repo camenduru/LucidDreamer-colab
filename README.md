@@ -15,6 +15,7 @@ The running time might be longer than the reported 35 minutes (5000 iterations) 
 
 ## Main Repo
 https://github.com/EnVision-Research/LucidDreamer
+https://huggingface.co/spaces/haodongli/LucidDreamer/tree/main
 
 ## Paper
 https://arxiv.org/abs/2311.11284
