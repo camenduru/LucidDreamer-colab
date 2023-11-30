@@ -8,6 +8,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LucidDreamer-colab/blob/main/LucidDreamer_torch2.0_colab.ipynb) | LucidDreamer_torch2.0_colab  (🚦 WIP 🚦)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LucidDreamer-colab/blob/main/LucidDreamer_colab.ipynb) | LucidDreamer_colab (>600 iterations Pro Colab 😭 A100) <br /> (600 iterations posible with Free T4)
 
 ## Tutorial
